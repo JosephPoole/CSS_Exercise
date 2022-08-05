@@ -1,0 +1,48 @@
+.nav-link {
+    color: orange;
+    text-decoration: none;
+  }
+
+main * {
+    max-width: 600;
+    margin-top: 24;
+    margin-bottom: 24;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+section * {
+    margin-top: 24;
+    margin-bottom: 24;
+    padding-left: 16;
+    padding-right: 16;
+    padding-top: 16;
+    padding-bottom: 16;
+  }
+
+
+#title {
+    font-size: 40;
+    font-weight: 800;
+}
+
+#d-inline {
+    display: inline-block;
+}
+
+nav ul * {
+   list-style: none;
+}
+
+body {
+    background-color: #222222;
+    color: #EEEEEE
+}
+
+#avatar {
+    width: 100;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 32;
+    margin-bottom: 32;
+}
